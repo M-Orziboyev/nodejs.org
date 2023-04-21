@@ -1,0 +1,42 @@
+{
+  "title": "Node.js",
+  "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+  "featuredImage": "/static/images/logo-hexagon-card.png",
+  "favicon": "/static/images/favicons/favicon.png",
+  "accentColor": "#333",
+  "og": {
+    "imgType": "image/png",
+    "imgWidth": "224",
+    "imgHeight": "256"
+  },
+  "twitter": {
+    "username": "@nodejs",
+    "card": "summary",
+    "img": "/static/images/logo-hexagon-card.png",
+    "imgAlt": "The Node.js Hexagon Logo"
+  },
+  "rssFeeds": [
+    {
+      "title": "Node.js Blog",
+      "file": "blog.xml"
+    },
+    {
+      "title": "Node.js Blog: Releases",
+      "file": "releases.xml",
+      "blogCategory": "release"
+    },
+    {
+      "title": "Node.js Blog: Vulnerability Reports",
+      "file": "vulnerability.xml",
+      "blogCategory": "vulnerability"
+    }
+  ],
+  "websiteBanners": {
+    "index": {
+      "startDate": "2023-04-18T15:45:00.000Z",
+      "endDate": "2023-05-02:00:00.000Z",
+      "text": "Node.js v20 is now available!",
+      "link": "https://nodejs.org/en/blog/announcements/v20-release-announce/"
+    }
+  }
+}
